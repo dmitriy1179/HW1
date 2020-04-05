@@ -24,7 +24,7 @@ console.log(typeof age)
 
 //5
 const student = {
-    name: "Dmitiry",
+    name: "Dmitriy",
     surname: "Cherednichenko",
     isActive: true
 }
